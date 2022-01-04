@@ -1,5 +1,5 @@
 # GitExample
-Example Repo 
+Example Repository 
 
 I am making a change to this document.
 
